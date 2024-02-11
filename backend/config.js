@@ -1,0 +1,3 @@
+export const PORT = 5555;
+//Add Passowrd after the : in the URL - Add a collection name after mongodb.net/...
+export const mongoDBURL = `mongodb+srv://BookstoreAdmin:bookstoreadmin@bookstorecluster0.xnaglbk.mongodb.net/books-collection?retryWrites=true&w=majority`
